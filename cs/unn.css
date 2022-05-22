@@ -3,7 +3,7 @@ body{
 
 }
 #head{
-				padding:60px 70px;
+				padding:0px 0px;
 				background-color:#B49C73;
 				height:3450px;
 				overflow-y:hidden;
@@ -49,7 +49,7 @@ body{
 				height:650px;
 				position: relative;
 				top:80px;
-				right: 14px;
+				right: 12px;
 				margin-right:50px;
 
 
@@ -140,23 +140,25 @@ span {
 .cla{
 				position:relative;
 				bottom:130px;
+				left:80px;
+	
 
 
 }
 .clap{
 				position:relative;
 				bottom:213px;
-				left:220px;
+				left:330px;
 }
 .clapp{
 				position:relative;
 				bottom:305px;
-				left:430px;
+				left:520px;
 }
 .cl{
 				position:relative;
 				bottom:398px;
-				left:630px;
+				left:730px;
 }
 .icon{
 				float:left;
@@ -308,11 +310,11 @@ left:90px;
 				height:150px;
 				position:absolute;
 				bottom:370px;
-				right:20px;
+				right:50px;
 				border-radius:100%;
 }
 .pic1-talk{
-				width:250px;
+				width:350px;
 				position: absolute;
 				left:440px;
 				bottom:380px;
@@ -322,13 +324,13 @@ left:90px;
 				height:250px;
 				position:absolute;
 				bottom:690px;
-				right:100px;
+				right:190px;
 
 }
 .critical-talk{
-				width:356px;
+				width:396px;
 				position:absolute;
-				left:450px;
+				left:490px;
 				bottom:600px;
 }
 .help{
@@ -336,12 +338,12 @@ left:90px;
 				height:200px;
 				position: absolute;
 				bottom:140px;
-				right:240px;
+				right:340px;
 }
 .help-talk{
-				width:250px;
+				width:300px;
 				position: absolute;
-				left:600px;
+				left:650px;
 				bottom:150px;
 }
 .barroww{
@@ -349,7 +351,7 @@ left:90px;
 				height:200px;
 				position: absolute;
 				bottom:660px;
-				right:410px;
+				right:510px;
 				transform:rotate(90deg);
 
 }
@@ -368,7 +370,7 @@ left:90px;
 				width:60%;
 				position: absolute;
 				left:10px;
-				top:40px;
+				top:-20px;
 }
 .pre{
 				width:30%;
@@ -385,7 +387,7 @@ left:90px;
 .press{
 				width:40%;
 				position: absolute;
-				bottom:80px;
+				bottom:50px;
 				right:10px;
 }
 .trust{
@@ -456,7 +458,7 @@ color:#777; }
 				position: relative;
 				bottom:570px;
 				width:300px;
-				left:270px;
+				left:340px;
 }
 /*other pages*/
 
